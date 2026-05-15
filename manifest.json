@@ -1,7 +1,7 @@
 {
   "name": "HeartFeel",
   "short_name": "HeartFeel",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#9b1c3c",
   "theme_color": "#ba174a",
